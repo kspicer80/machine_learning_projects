@@ -5,3 +5,4 @@ regression_on_twitter_and_toms_hardware/Twitter/Twitter.data
 regression_on_twitter_and_toms_hardware/Twitter/Twitter.names
 regression_on_twitter_and_toms_hardware/TomsHardware/TomsHardware.csv
 regression_on_twitter_and_toms_hardware/Twitter/Twitter.csv
+.DS_Store
