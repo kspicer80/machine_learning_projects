@@ -1,0 +1,64 @@
+2023-04-24 09:38:10,785 - __main__ - ERROR - Error! You entered a non-number value to withdraw.
+2023-04-24 09:39:15,400 - __main__ - ERROR - Error! You entered a non-number value to withdraw.
+2023-04-24 09:39:48,744 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:39:51,689 - __main__ - ERROR - Error! Invalid pin. Try again.
+2023-04-24 09:39:56,936 - __main__ - INFO - You succesfully deposited: $500.0 at 2023-04-24 09:39:56.936620 and your transaction # is 4
+2023-04-24 09:40:31,450 - __main__ - ERROR - Error! You entered a non-number value to withdraw.
+2023-04-24 09:40:34,927 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:40:43,337 - __main__ - WARNING - Warning! You entered a negative number to deposit.
+2023-04-24 09:40:43,340 - __main__ - INFO - You succesfully deposited: $-1234.0 at 2023-04-24 09:40:43.339857 and your transaction # is 6
+2023-04-24 09:43:02,505 - __main__ - ERROR - Error! You entered a non-number value to withdraw.
+2023-04-24 09:43:24,862 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:43:29,887 - __main__ - WARNING - Warning! You entered a negative number to deposit.
+2023-04-24 09:43:34,209 - __main__ - ERROR - Error! You entered a non-number value to withdraw.
+2023-04-24 09:44:05,304 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:44:10,400 - __main__ - WARNING - Warning! You entered a negative number to deposit.
+2023-04-24 09:44:38,993 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:44:43,703 - __main__ - ERROR - Error! You entered a something that wasn't a number.
+2023-04-24 09:49:29,478 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:49:58,144 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:50:44,819 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:51:20,164 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:51:24,211 - __main__ - INFO - You deposited 50.0 at 2023-04-24 09:51:24.211888 and your Transation # is 6
+2023-04-24 09:53:17,773 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:53:20,875 - __main__ - INFO - You deposited 50.0 at 2023-04-24 09:53:20.875672 and your Transation # is 1
+2023-04-24 09:53:24,386 - __main__ - ERROR - Error! Insufficient balance to complete withdraw.
+2023-04-24 09:53:47,335 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:53:50,970 - __main__ - INFO - You deposited 100.0 at 2023-04-24 09:53:50.970453 and your Transation # is 3
+2023-04-24 09:53:52,746 - __main__ - ERROR - Error! Insufficient balance to complete withdraw.
+2023-04-24 09:56:30,498 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:56:34,217 - __main__ - INFO - You deposited 100.0 at 2023-04-24 09:56:34.217373 and your Transation # is 10
+2023-04-24 09:56:57,070 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:57:02,225 - __main__ - INFO - You deposited $100.0 at 2023-04-24 09:57:02.225135 and your Transation # is 8
+2023-04-24 09:57:16,680 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:57:20,336 - __main__ - INFO - You deposited $100.0 at 2023-04-24 09:57:20.336761 and your Transation # is 4
+2023-04-24 09:57:21,553 - __main__ - INFO - You withdrew 50.0 at 2023-04-24 09:57:21.553165 and your Transation # is 4—your remaining balance is 150.0
+2023-04-24 09:58:04,543 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:58:14,936 - __main__ - INFO - You deposited $100.0 at 2023-04-24 09:58:14.936613 and your Transation # is 10
+2023-04-24 09:58:31,202 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:58:34,376 - __main__ - INFO - You deposited $100.0 at 2023-04-24 09:58:34.376230 and your Transation # is 8
+2023-04-24 09:58:35,088 - __main__ - INFO - You withdrew 25.0 at 2023-04-24 09:58:35.088370 and your Transation # is 6—your current balance is 175.0
+2023-04-24 09:59:40,019 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 09:59:43,704 - __main__ - INFO - You deposited $100.0 at 2023-04-24 09:59:43.704539 and your Transation # is 3
+2023-04-24 09:59:45,592 - __main__ - INFO - You withdrew 25.0 at 2023-04-24 09:59:45.592786; your Transation # is 4—your current balance is 175.0
+2023-04-24 10:01:55,609 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 10:02:04,287 - __main__ - INFO - You deposited $100.0 at 2023-04-24 10:02:04.287890 and your Transation # is 8
+2023-04-24 10:02:09,015 - __main__ - INFO - You withdrew 100.0 at 2023-04-24 10:02:09.015745; your Transation # is 8—your current balance is 100.0
+2023-04-24 10:02:17,233 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 10:02:18,743 - __main__ - ERROR - Error! Invalid pin. Try again.
+2023-04-24 10:02:23,871 - __main__ - ERROR - Error! You entered a non-number value to deposit!
+2023-04-24 10:02:35,111 - __main__ - ERROR - Error! Insufficient balance to complete withdraw.
+2023-04-24 10:03:37,647 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 10:03:42,839 - __main__ - INFO - You deposited $100.0 at 2023-04-24 10:03:42.839228 and your Transation # is 2
+2023-04-24 10:03:44,703 - __main__ - ERROR - Error! Insufficient balance to complete withdraw.
+2023-04-24 10:04:02,273 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 10:04:05,793 - __main__ - INFO - You deposited $100.0 at 2023-04-24 10:04:05.792678 and your Transation # is 8
+2023-04-24 10:04:10,383 - __main__ - INFO - You withdrew 50.0 at 2023-04-24 10:04:10.383039; your Transation # is 5—your current balance is 150.0
+2023-04-24 10:04:46,065 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 10:04:50,031 - __main__ - INFO - You deposited $100.0 at 2023-04-24 10:04:50.031326 and your Transation # is 2
+2023-04-24 10:04:52,094 - __main__ - INFO - You withdrew 100.0 at 2023-04-24 10:04:52.094536; your Transation # is 6—your current balance is 100.0
+2023-04-24 10:04:52,095 - __main__ - INFO - Available Balance = $100.0.
+2023-04-24 10:05:18,619 - __main__ - INFO - Hello! Welcome to the ATM Depot!
+2023-04-24 10:05:22,471 - __main__ - INFO - You deposited $100.0 at 2023-04-24 10:05:22.471496 and your Transation # is 2
+2023-04-24 10:05:24,070 - __main__ - INFO - You withdrew 100.0 at 2023-04-24 10:05:24.070878; your Transation # is 8.
+2023-04-24 10:05:24,070 - __main__ - INFO - Available Balance = $100.0.
